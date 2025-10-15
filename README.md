@@ -4,7 +4,7 @@
 
 The specific modifications are:
 
-    - Changing the _DEFAULT_FILTERS in cpplint.py to add the following filters:
+- Changing the _DEFAULT_FILTERS in cpplint.py to add the following filters:
 
 ```
 _DEFAULT_FILTERS = [
