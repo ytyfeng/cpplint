@@ -350,7 +350,6 @@ _ERROR_CATEGORIES = [
     "whitespace/empty_if_body",
     "whitespace/empty_loop_body",
     "whitespace/end_of_line",
-    "whitespace/ending_newline",
     "whitespace/forcolon",
     "whitespace/indent",
     "whitespace/indent_namespace",
@@ -418,6 +417,7 @@ _DEFAULT_FILTERS = [
     "-runtime/references",
     "-readability/todo",
     "-whitespace/tab",
+    "-whitespace/ending_newline",
 ]
 
 # The default list of categories suppressed for C (not C++) files.
